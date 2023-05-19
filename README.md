@@ -27,7 +27,7 @@ The repository is structured as follows:
 
 Here are some examples of visualizations created using the datasets:
 
-![Correlation between GDP and Population](visualizations\gdp-population-scatterplot.png)
+![Correlation between GDP and Population](.\visualizations\gdp-population-scatterplot.png)
 *Image: Visualization of World Bank indicators using Power BI*
 
 ![Videogame Sales Analysis](power_bi_reports/videogame_sales_analysis.png)
